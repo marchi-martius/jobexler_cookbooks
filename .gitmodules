@@ -1,3 +1,6 @@
 [submodule "delayed_job"]
 	path = delayed_job
 	url = https://github.com/joeyAghion/opsworks_delayed_job.git
+[submodule "opsworks_delayed_job"]
+	path = opsworks_delayed_job
+	url = git@github.com:joeyAghion/opsworks_delayed_job.git
